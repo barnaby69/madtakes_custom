@@ -1,12 +1,16 @@
 # madtakes_custom
 
-The code entered is inspired by Kelsey Kreppel and Cody Kolodziejzyk
+Inspired by Kelsey Kreppel and Cody Kolodziejzyk
 
-Each transcript file: takes a clip a transcriptt relevant to the Cody Ko channel and prompts the user to add there own words
+Each transcript file: takes a transcriptt clip or tweet relevant to the Cody Ko channel and prompts the user to add there own words.
+Just like the mad:)takes website.
+A costomised transcript is generated along with the original transcript that was used to make it.
 
-The intention is that the user has no prior knowledge of what the transcript is
+The intention is that the user has no prior knowledge of what the transcript is.
 
-For example the file might ask the user for: a noun, a verb and a adverb once the user enters these a transcript will
-be generated along with the original transcript that was used to make it
+For example (without spoling the contents) the file might ask the user for: a noun, a verb and a adverb.
+The user might enter chad, hustling and franticly.
+Python then could retern Cody the chad was hustlting franticly.
 
-It would be greatly apprecated if anyone willing to add in new transcripts
+
+It would be greatly apprecated if anyone is willing to add in new transcripts
