@@ -23,8 +23,7 @@ print(greeting, "\n")
 print("Welcome to the Cody Ko sentence generator", "\n")
 print("Like mad:)libs but custom made", "\n")
 print("For this file you are required to input 17 words", "\n")
-print("Once you have typed in a word you won't be able to change it", "\n")
-print("If you want to typing it up in a text file first and past from there :)", "\n")
+print("Once you have typed in a word and hit enter you won't be able to change it", "\n")
 
 # system asks the user what variables they want
 
