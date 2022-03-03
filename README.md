@@ -2,7 +2,7 @@
 
 The code entered is inspired by Kelsey Kreppel and Cody Kolodziejzyk
 
-Each .py file: takes a clip of transcripts relevant to the Cody Ko channel and prompts the user to add there own words
+Each transcript file: takes a clip a transcriptt relevant to the Cody Ko channel and prompts the user to add there own words
 
 The intention is that the user has no prior knowledge of what the transcript is
 
